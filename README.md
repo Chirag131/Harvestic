@@ -73,4 +73,4 @@ If you want to explore the website without creating an account, use the followin
 - **Email:** test@gmail.com  
 - **Password:** 12345678  
 
-# THANK YOU!!
+
