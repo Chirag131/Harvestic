@@ -1,9 +1,6 @@
 # Harvestic
 A smart solution for a thriving agricultural ecosystem
 
-## Contribution
-I focused on the interface and frontend development of the Harvestic platform, ensuring a user-friendly experience tailored to the needs of diverse users in the agricultural sector. The backend was developed by another team member, allowing me to concentrate on creating an intuitive interface that integrates seamlessly with the backend functionalities.
-
 ## Listing All the Problems
 **Problem 1:** Inefficient labor and equipment management  
 **Problem 2:** Limited access to affordable, high-quality resources  
